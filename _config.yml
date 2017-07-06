@@ -244,3 +244,22 @@ defaults:
       comments: false
       share: false
       related: false
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "projects"
+post_archive:
+  type: liquid
+  path: /posts/

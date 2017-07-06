@@ -4,3 +4,17 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
+
+projects:
+  - title: Magazino
+    children:
+      - title: "Toru"
+        url: /projects/toru/
+  - title: Yujin Robot
+    children:
+      - title: "Turtlebot"
+        url: /projects/turtlebot/
+  - title: Others
+    children:
+      - title: "Robot Web Tools"
+        url: /projects/robotwebtools/
