@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : ""
+title                    : "Hello World"
 title_separator          : "-"
 name                     : "Jihoon Lee"
 description              : ""
@@ -230,7 +230,6 @@ compress_html:
   ignore:
     envs: development
 
-
 # Defaults
 defaults:
   # _posts
@@ -240,7 +239,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
       comments: false
       share: false
       related: false
@@ -249,8 +247,8 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: splash
-      author_profile: false
+      layout: single
+      author_profile: true
   # _projects
   - scope:
       path: ""
