@@ -263,3 +263,8 @@ defaults:
 post_archive:
   type: liquid
   path: /posts/
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
