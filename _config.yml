@@ -229,7 +229,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio_
+  # _portfolio
   - scope:
       path: ""
       type: portfolio
