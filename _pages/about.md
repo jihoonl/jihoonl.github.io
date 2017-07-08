@@ -7,8 +7,8 @@ excerpt: "Who I am"
 
 Robotics Software Developer at [Magazino GmbH](https://www.magazino.eu/).
 
-* Research Engineer with computer science background.
-* Opensource Software developer.
+* Research Engineer with computer science background
+* Opensource Software developer
 * Interested in SLAM, localization, and object perception
 
 * Work on robot localization in warehouse like environment.
