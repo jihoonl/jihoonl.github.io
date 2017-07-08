@@ -229,15 +229,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _projects
+  # _portfolio_
   - scope:
       path: ""
-      type: projects
+      type: portfolio
     values:
       layout: single
       author_profile: false
       sidebar:
-        nav: "projects"
+        nav: "portfolio"
 post_archive:
   type: liquid
   path: /posts/
