@@ -3,20 +3,19 @@ permalink: /about/
 title: "About"
 excerpt: "Who I am"
 ---
-
-### Jihoon Lee
+## Jihoon Lee
 
 Robotics Software Developer at [Magazino GmbH](https://www.magazino.eu/).
 
-  * Research Engineer with computer science background.
-  * Opensource Software developer.
-  * Interested in SLAM, localization, and object perception
+* Research Engineer with computer science background.
+* Opensource Software developer.
+* Interested in SLAM, localization, and object perception
 
-  * Work on robot localization in warehouse like environment.
-  * Developed and maintain widely used libraries for robotics web application
-    development.
-  * Designed and developed a framework to enable multi robots, devices, and human
-    collaboration.
+* Work on robot localization in warehouse like environment.
+* Developed and maintain widely used libraries for robotics web application
+  development.
+* Designed and developed a framework to enable multi robots, devices, and human
+  collaboration.
 
 
 #### Contacts:
