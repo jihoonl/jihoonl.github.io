@@ -243,6 +243,6 @@ post_archive:
   path: /posts/
 
 collections:
-  projects:
+  portfolio:
     output: true
     permalink: /:collection/:path/
