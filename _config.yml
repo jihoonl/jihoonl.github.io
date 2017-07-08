@@ -13,8 +13,8 @@ name                     : "Jihoon Lee"
 description              : ""
 url                      : ""
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : jihoonl/jihoonl.github.io
+teaser                   : "https://gravatar.com/avatar/7745e9d83e6614ea3e41ef843a7858a3"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -80,31 +80,11 @@ author:
   name             : "Jihoon Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Roboticist"
-  location         : ""
+  location         : "München, Germany"
   email            : jihoonlee.in@gmail.com
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  github           : "jihoonl"
+  linkedin         : "jihoonleein"
 
 
 # Reading Files
