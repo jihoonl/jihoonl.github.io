@@ -12,6 +12,7 @@ Robotics Software Developer at [Magazino GmbH](https://www.magazino.eu/).
 * Developed and maintain widely used libraries for robotics web application development.
 * Designed and developed a framework to enable multi robots, devices, and human collaboration.
 * Interested in SLAM, localization, and object perception
+* [Curriculum Vitae](/assets/files/cv_latest.pdf)
 
 #### Contacts:
 
@@ -19,4 +20,3 @@ Robotics Software Developer at [Magazino GmbH](https://www.magazino.eu/).
 * Website: http://jihoonlee.io
 * Github: https://github.com/jihoonl
 * LinkedIn: https://linkedin.com/in/jihoonleein
-* [Curriculum Vitae](/assets/files/cv_latest.pdf)
