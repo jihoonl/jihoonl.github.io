@@ -4,4 +4,10 @@
 
 @charset "utf-8";
 
+.page__content {
+  p, li, dl {
+    font-size: 0.5em;
+  }
+}
+
 @import "minimal-mistakes";
