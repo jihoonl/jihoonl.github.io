@@ -8,7 +8,7 @@ Robotics Software Developer at [Magazino GmbH](https://www.magazino.eu/).
 
 * Research Engineer with computer science background
 * Opensource Software developer
-* Interested in SLAM, localization, and object perception
+
 
 * Work on robot localization in warehouse like environment.
 * Developed and maintain widely used libraries for robotics web application
@@ -16,6 +16,7 @@ Robotics Software Developer at [Magazino GmbH](https://www.magazino.eu/).
 * Designed and developed a framework to enable multi robots, devices, and human
   collaboration.
 
+* Interested in SLAM, localization, and object perception
 
 #### Contacts:
 
