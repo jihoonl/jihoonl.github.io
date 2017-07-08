@@ -78,11 +78,11 @@ analytics:
 # Site Author
 author:
   name             : "Jihoon Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://gravatar.com/avatar/7745e9d83e6614ea3e41ef843a7858a3" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Roboticist"
   location         : "München, Germany"
   email            : jihoonlee.in@gmail.com
-  uri              :
+  uri              : "jihoonlee.io"
   github           : "jihoonl"
   linkedin         : "jihoonleein"
 
