@@ -4,9 +4,7 @@ title: "About"
 excerpt: "Who I am"
 ---
 
-{% include base_path %}
-
-## Jihoon Lee
+### Jihoon Lee
 
 Robotics Software Developer at [Magazino GmbH](https://www.magazino.eu/).
 
