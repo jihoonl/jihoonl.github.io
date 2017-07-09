@@ -1,6 +1,5 @@
 ---
 permalink: /portfolio/
-title: "Portfolio"
 excerpt: "Portfolio"
 ---
 
