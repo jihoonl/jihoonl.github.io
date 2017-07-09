@@ -4,6 +4,8 @@ title: "Jihoon Lee"
 excerpt: "Who I am"
 ---
 
+# Jihoon Lee
+
 Robotics Software Developer at [Magazino GmbH](https://www.magazino.eu/).
 
 * Research Engineer with computer science background
