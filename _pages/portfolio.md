@@ -7,7 +7,7 @@ layout: splash
 
 {% include base_path %}
 
-{% include sidebar2 %}
+{% include toc %}
 
 
 ## Test 1
