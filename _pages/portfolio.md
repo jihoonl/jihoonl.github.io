@@ -2,13 +2,10 @@
 permalink: /portfolio/
 author_profile: false
 excerpt: "Portfolio"
-layout: splash
+layout: single2
 ---
 
 {% include base_path %}
-
-{% include toc %}
-
 
 ## Test 1
 
