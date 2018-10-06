@@ -11,4 +11,4 @@ layout: splash
 
 ## Robots
 
-{% include gallery caption="This is a list robots I have worked with" % }
+{% include gallery caption="This is a list robots I have worked with" %}
