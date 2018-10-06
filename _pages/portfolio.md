@@ -9,18 +9,6 @@ layout: splash
 
 {% include toc %}
 
-## Toru
+## Robots
 
-Test111
-
-## Turtlebot2 & Kobuki
-
-hihi
-
-## Robotics in Concert
-
-rocon
-
-## Robot Web Tools
-
-webtools
+{% include gallery caption="This is a list robots I have worked with" % }

@@ -6,12 +6,12 @@ excerpt: "Who I am"
 
 # Jihoon Lee
 
-Robotics Software Developer at [Magazino GmbH](https://www.magazino.eu/).
+Roboticist
 
 * Research Engineer with computer science background
 * Opensource Software developer
 * Work Experience in Germany, South Korea, and the U.S.
-* Experienced in localization, multi robot framework, robot web application
+* Experienced in various robotics software including localization, multi robot framework, robot web application
   development
 * [Curriculum Vitae](/assets/files/cv_latest.pdf)
 
